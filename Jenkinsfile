@@ -1,6 +1,8 @@
 pipeline {
-	agent {
+	agent any {
+		parameters {
 	args -p 3000:3000
+		}
 	}
     tools {nodejs "node"}
     environment {
