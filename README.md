@@ -13,9 +13,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains shell scripts with commands that are executed when Jenkins processes
 the "Test" and "Deliver" stages of your Pipeline.
 
-this is for testing purposes.
-another line
-added these lines to test the webhook
-once againtesting the webhook
-
-
+This line was added for testing the webhook configuration.
